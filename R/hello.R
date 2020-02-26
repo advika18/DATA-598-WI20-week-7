@@ -28,3 +28,4 @@ circle_area <- function(r){
   print(a)
 
 }
+#two functions added
