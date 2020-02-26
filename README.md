@@ -1,7 +1,7 @@
 # data598week7
 
 <!-- badges: start -->
-![](https://github.com/advika18/DATA-598-WI20-week-7/blob/master/.github/workflows/Install%20dependencies/badge.svg)
+![](https://github.com/advika18/DATA-598-WI20-week-7/blob/master/.github/workflows/check/badge.svg)
 
 <!-- badges: end -->
 
