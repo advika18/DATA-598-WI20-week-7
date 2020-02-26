@@ -1,8 +1,9 @@
 # data598week7
 
 <!-- badges: start -->
-<!-- badges: end -->
 ![](https://github.com/advika18/DATA-598-WI20-week-7/blob/master/.github/workflows/Install%20dependencies/badge.svg)
+
+<!-- badges: end -->
 
 The goal of data598week7 is to try testing and continuous integration in R.
 
