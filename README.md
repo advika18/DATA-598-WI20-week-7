@@ -2,6 +2,8 @@
 
 <!-- badges: start -->
 ![check](https://github.com/advika18/DATA-598-WI20-week-7/blob/master/.github/workflows/check/badge.svg)
+[![Generic badge](https://img.shields.io/badge/<SUBJECT>-<STATUS>-<COLOR>.svg)](https://shields.io/)
+
 
 <!-- badges: end -->
 
