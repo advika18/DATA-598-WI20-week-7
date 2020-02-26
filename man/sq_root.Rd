@@ -12,3 +12,7 @@ sq_root(x)
 \description{
 Title
 }
+\examples{
+sq_root(4)
+sq_root(25)
+}

@@ -12,3 +12,6 @@ circle_area(r)
 \description{
 Title
 }
+\examples{
+circle_area(3)
+}

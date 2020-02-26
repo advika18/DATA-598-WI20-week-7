@@ -1,18 +1,30 @@
-# Hello, world!
-#
-# This is an example function named 'hello' 
-# which prints 'Hello, world!'.
-#
-# You can learn more about package authoring with RStudio at:
-#
-#   http://r-pkgs.had.co.nz/
-#
-# Some useful keyboard shortcuts for package authoring:
-#
-#   Install Package:           'Cmd + Shift + B'
-#   Check Package:             'Cmd + Shift + E'
-#   Test Package:              'Cmd + Shift + T'
+#' Title
+#'
+#' @param x
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' sq_root(4)
+#' sq_root(25)
+sq_root <- function(x) {
 
-hello <- function() {
-  print("Hello, world!")
+  print(sqrt(x))
+}
+
+#' Title
+#'
+#' @param r
+#'
+#' @return
+#' @export
+#'
+#' @examples
+#' circle_area(3)
+circle_area <- function(r){
+
+  a <- pi*r^2
+  print(a)
+
 }

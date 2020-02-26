@@ -3,15 +3,8 @@
 <!-- badges: start -->
 <!-- badges: end -->
 
-The goal of data598week7 is to ...
+The goal of data598week7 is to try testing and continuous integration in R.
 
-## Installation
-
-You can install the released version of data598week7 from [CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("data598week7")
-```
 
 ## Example
 
