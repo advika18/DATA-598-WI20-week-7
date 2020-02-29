@@ -1,6 +1,7 @@
 # data598week7
 
 <!-- badges: start -->
+[![R build status](https://github.com/advika18/data598week7/workflows/R-CMD-check/badge.svg)](https://github.com/advika18/data598week7/actions)
 <!-- badges: end -->
 
 The goal of data598week7 is to try testing and continuous integration in R.
