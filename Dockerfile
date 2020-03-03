@@ -16,4 +16,4 @@ RUN . /etc/environment \
   && R -e "devtools::install('/data598week7', dep=TRUE)" \
   # render the manuscript into a docx, you'll need to edit this if you've
   # customised the location and name of your main Rmd file
-  && R -e "devtools::check('/tests')"
+  && R -e "devtools::check()"
