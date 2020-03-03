@@ -16,3 +16,10 @@ jobs:
       - name: Check
         run: rcmdcheck::rcmdcheck(args = "--no-manual", error_on = "error")
         shell: Rscript {0}
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+     - uses: actions/checkout@master
+     - name: Build the Docker image
+       run: docker build . --file Dockerfile
