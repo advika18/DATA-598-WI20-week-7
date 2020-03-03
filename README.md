@@ -2,6 +2,7 @@
 
 <!-- badges: start -->
 [![R build status](https://github.com/advika18/data598week7/workflows/R-CMD-check/badge.svg)](https://github.com/advika18/data598week7/actions)
+[![Launch Rstudio Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/advika18/data598week7/master?urlpath=rstudio)
 <!-- badges: end -->
 
 The goal of data598week7 is to try testing and continuous integration in R.
